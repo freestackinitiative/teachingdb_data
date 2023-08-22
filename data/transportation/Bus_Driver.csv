@@ -1,1 +1,12 @@
 driver_id,first_name,last_name,year_start,pay_grade
+1,Matthew,Douglas,1999,B1
+2,Janice,Jones,1999,A1
+3,Alex,Frost,1999,A2
+4,Polly,Reinhart,1999,C1
+5,Matthew,Douglas,2002,D6
+6,John,Smith,2006,D6
+7,John,Smith,2006,D6
+8,Pieter,Smith,2016,D6
+9,Alice,Frost,1999,A2
+10,Jones,BarBQ,2000,A2
+11,Bob,Frost,2000,A2

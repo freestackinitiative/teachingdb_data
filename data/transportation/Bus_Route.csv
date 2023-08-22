@@ -1,1 +1,12 @@
 route_id,start_depot,end_depot,route_type,notes
+Q1A,5,8.0,local,
+Q1B,8,5.0,local,
+Q2A,5,8.0,local,
+Q2B,8,5.0,local,
+Q3A,5,6.0,local,
+Q3B,5,6.0,local,
+Q4A,5,6.0,local,
+Q4B,5,6.0,local,
+Q5A,5,6.0,local,
+Q5B,5,6.0,local,
+E8,8,,emergency,Evacuate Workers from City
