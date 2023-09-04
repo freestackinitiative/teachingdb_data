@@ -1,0 +1,21 @@
+DishID,Name,Description,Price,Type
+1,Avocado Pesto Bruschetta,"Sliced and toasted sourdough topped with a spread of creamy avocado pesto, cherry tomatoes, and basil.",8.0,Appetizer
+2,Zucchini Fritters,"Golden brown zucchini fritters, seasoned with garlic and herbs. Served with tzatziki sauce.",9.0,Appetizer
+3,Spicy Lentil Soup,"A hearty soup made from red lentils, carrots, and a touch of spice. Comes with a slice of whole-grain bread.",7.0,Main
+4,Shrimp Tacos,"Soft corn tortillas filled with grilled shrimp, coleslaw, and mango salsa. Served with lime wedges.",8.0,Main
+5,Stuffed Bell Peppers,"Bell peppers stuffed with a mixture of quinoa, black beans, corn, and melted cheese. Topped with avocado slices.",7.0,Appetizer
+6,Falafel Salad,"Crispy falafel served over a bed of arugula and mixed greens, with cherry tomatoes, cucumber, and tahini dressing.",9.99,Main
+7,Seasonal Fruit Salad,"A refreshing blend of seasonal fruits topped with a light honey and mint dressing.",7.0,Main
+8,Grilled Chicken Caesar,"Romaine lettuce tossed in Caesar dressing, croutons, and grilled chicken. Topped with Parmesan.",9.0,Main
+9,Asian Noodle Bowl,"Glass noodles served with your choice of tofu or shrimp, fresh veggies, and a tangy tamarind sauce.",9.99,Main
+10,Veggie Stacked Burger,"A vegetable patty stacked with lettuce, tomato, sautéed mushrooms, and vegan cheese. Served with sweet potato fries.",9.99,Main
+11,Ricotta Spinach Cannelloni,"Cannelloni filled with a mixture of ricotta and spinach, baked in a tomato sauce and topped with mozzarella.",9.99,Main
+12,BBQ Chicken Flatbread,"A thin crust flatbread topped with BBQ chicken, red onions, cilantro, and a three-cheese blend.",9.99,Main
+13,Pumpkin Hummus Platter,"A seasonal twist on hummus featuring pumpkin. Served with an assortment of vegetables and pita.",9.99,Appetizer
+14,Berry Medley Parfait,"Layers of fresh mixed berries, Greek yogurt, and granola. A light and healthy dessert option.",9.0,Dessert
+15,Banana Nut Bread Pudding,"Warm banana nut bread pudding topped with a scoop of vanilla ice cream and caramel sauce.",9.0,Dessert
+16,Mini Fruit Tarts,"A selection of mini tarts filled with lemon curd, chocolate ganache, and raspberry jam.",6.0,Dessert
+17,Strawberry Rhubarb Pie,"A perfect balance of sweet and tart, our strawberry rhubarb pie is a seasonal favorite.",5.0,Dessert
+18,Chai Iced Latte,"Our Chai Latte served over ice. Perfectly spiced and refreshing.",6.0,Beverage
+19,Lemon Ginger Cooler,"A blend of lemon juice, ginger, and sparkling water. A rejuvenating choice.",4.0,Beverage
+20,Rosemary Peach Fizz,"Peach puree, rosemary-infused simple syrup, and soda make for a uniquely flavorful, non-alcoholic beverage.",6.0,Beverage
