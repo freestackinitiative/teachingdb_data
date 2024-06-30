@@ -1,5 +1,4 @@
-{
-  "databases": {
+{"databases": {
       "core": {
           "salesman": "https://raw.githubusercontent.com/freestackinitiative/teachingdb_data/main/data/core/SALESMAN.csv",
           "customer": "https://raw.githubusercontent.com/freestackinitiative/teachingdb_data/main/data/core/CUSTOMER.csv",
