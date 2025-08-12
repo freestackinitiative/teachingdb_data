@@ -64,6 +64,9 @@
           "ad_exposure_2023": "https://raw.githubusercontent.com/freestackinitiative/teachingdb_data/main/data/capstone/2023Ad_Exposure.csv",
           "site_traffic_2023": "https://raw.githubusercontent.com/freestackinitiative/teachingdb_data/main/data/capstone/2023Site_Traffic.csv",
           "user_engagement_2023": "https://raw.githubusercontent.com/freestackinitiative/teachingdb_data/main/data/capstone/2023User_Engagement.csv"
+      },
+      "codon": {
+        "transactions": "https://raw.githubusercontent.com/freestackinitiative/teachingdb_data/main/data/codon/Transactions.csv"
       }
   }
 }
